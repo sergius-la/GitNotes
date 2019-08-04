@@ -18,7 +18,7 @@
   - [__`МФТИ`__]
 - [__`Algorithms-Java`__](https://github.com/sergius-la/Algorithms-Java)
 
-## [`Cheatsheet:`](https://github.com/sergius-la/Cheatsheet)
+## <img src="/imgs/cheatsheet.png" width="24" height="24"> [`Cheatsheet:`](https://github.com/sergius-la/Cheatsheet)
 - <img src="/imgs/sql.png" width="13" height="13"> [__`SQL`__]
 - <img src="/imgs/git.png" width="13" height="13"> [__`Git commands`__](https://github.com/sergius-la/Cheatsheet/blob/master/Git.md)
 - <img src="/imgs/terminal.png" width="13" height="13"> [__`Unix / Linux commands`__](https://github.com/sergius-la/Cheatsheet/blob/master/terminal/Unix.md) 
