@@ -1,0 +1,72 @@
+[
+	{
+		"name": "GitNotes - List",
+		"rootPath": "$home/Desktop/GitNotes/GitNotes",
+		"paths": [],
+		"group": "",
+		"enabled": true
+	},
+	{
+		"name": "GitNotes - Python",
+		"rootPath": "$home/Desktop/GitNotes/Python",
+		"paths": [],
+		"group": "",
+		"enabled": true
+	},
+	{
+		"name": "GitNotes - Java",
+		"rootPath": "$home/Desktop/GitNotes/Java",
+		"paths": [],
+		"group": "",
+		"enabled": true
+	},
+	{
+		"name": "GitNotes - Swift",
+		"rootPath": "$home/Desktop/GitNotes/Swift",
+		"paths": [],
+		"group": "",
+		"enabled": true
+	},
+	{
+		"name": "GitNotes - Algorithms List",
+		"rootPath": "$home/Desktop/GitNotes/Algorithms",
+		"paths": [],
+		"group": "",
+		"enabled": true
+	},
+	{
+		"name": "GitNotes - Automation",
+		"rootPath": "$home/Desktop/GitNotes/Automation",
+		"paths": [],
+		"group": "",
+		"enabled": true
+	},
+	{
+		"name": "GitNotes - Cheatsheet",
+		"rootPath": "$home/Desktop/GitNotes/Cheatsheet",
+		"paths": [],
+		"group": "",
+		"enabled": true
+	},
+	{
+		"name": "GitNotes - Algorithms: CodingBat-Java",
+		"rootPath": "$home/Desktop/GitNotes/CodingBat-Java",
+		"paths": [],
+		"group": "",
+		"enabled": true
+	},
+	{
+		"name": "GitNotes - Algorithms: Algorithms-Java",
+		"rootPath": "$home/Desktop/GitNotes/Algorithms-Java",
+		"paths": [],
+		"group": "",
+		"enabled": true
+	},
+	{
+		"name": "GitNotes - Algorithms: Algorithms-Python",
+		"rootPath": "$home/Desktop/GitNotes/Algorithms-Python",
+		"paths": [],
+		"group": "",
+		"enabled": true
+	}
+]
