@@ -12,7 +12,7 @@
 -  <img src="/imgs/android.png" width="13" height="13"> __Android:__
     -   [__`ADB commands`__](https://github.com/sergius-la/Cheatsheet/blob/master/adb/adb.md)
 
-## <img src="/imgs/algorithms.png" width="18" height="18"> [`Algorithms:`](https://github.com/sergius-la/Algorithms)
+## <img src="/imgs/algorithms.png" width="24" height="24"> [`Algorithms:`](https://github.com/sergius-la/Algorithms)
 - [__`CodingBat-Java`__](https://github.com/sergius-la/CodingBat-Java)
 - [__`Algorithms-Python`__](https://github.com/sergius-la/Algorithms-Python)
   - [__`МФТИ`__]
