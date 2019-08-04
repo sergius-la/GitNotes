@@ -5,12 +5,16 @@
 - <img src="/imgs/py_icon.png" width="13" height="13"> [__`Python`__](https://github.com/sergius-la/Python)
 - <img src="/imgs/swift.png" width="13" height="13"> [__`Swift`__](https://github.com/sergius-la/Swift)
 
+## WebDevelopment:
+- <img src="/imgs/django_icon.png" width="13" height="13"> [__`Django`__](https://github.com/sergius-la/Python#-django)
+
 ## <img src="/imgs/automation.png" width="24" height="24"> [`Automation:`](https://github.com/sergius-la/Automation)
 -  <img src="/imgs/selenium_icon.jpg" width="13" height="13"> [__`Selenium`__]
 -  <img src="/imgs/appium.png" width="13" height="13"> [__`Appium`__](https://github.com/sergius-la/Automation/blob/master/Appium/Appium.md)
 -  <img src="/imgs/xctest.jpg" width="13" height="13"> [__`XCUITest`__](https://github.com/sergius-la/Swift/blob/master/Swift/XCTest/XCUITest/XCUitest.md)
 -  <img src="/imgs/android.png" width="13" height="13"> __Android:__
     -   [__`ADB commands`__](https://github.com/sergius-la/Cheatsheet/blob/master/adb/adb.md)
+-   [__`xPath`__](https://github.com/sergius-la/Automation/tree/master/xPath)    
 
 ## <img src="/imgs/algorithms.png" width="24" height="24"> [`Algorithms:`](https://github.com/sergius-la/Algorithms)
 - [__`CodingBat-Java`__](https://github.com/sergius-la/CodingBat-Java)
@@ -22,3 +26,4 @@
 - <img src="/imgs/sql.png" width="13" height="13"> [__`SQL`__]
 - <img src="/imgs/git.png" width="13" height="13"> [__`Git commands`__](https://github.com/sergius-la/Cheatsheet/blob/master/Git.md)
 - <img src="/imgs/terminal.png" width="13" height="13"> [__`Unix / Linux commands`__](https://github.com/sergius-la/Cheatsheet/blob/master/terminal/Unix.md) 
+- <img src="/imgs/ide_icon.png" width="13" height="13"> [__`IDEs`__](https://github.com/sergius-la/Cheatsheet#-ides)
