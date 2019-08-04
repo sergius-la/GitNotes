@@ -2,7 +2,7 @@
 
 ## Languages:
 -   [__`Java`__](https://github.com/sergius-la/Java)
--   [__`Python`__](https://github.com/sergius-la/Python)
+- <img src="/imgs/py_icon.png" width="14" height="14"> [__`Python`__](https://github.com/sergius-la/Python)
 -   [__`Swift`__](https://github.com/sergius-la/Swift)
 
 ## [`Automation:`](https://github.com/sergius-la/Automation)
