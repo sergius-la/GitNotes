@@ -75,5 +75,12 @@
 		"paths": [],
 		"group": "",
 		"enabled": true
+	},
+	{
+		"name": "GitNotes - icon_links",
+		"rootPath": "$home/Desktop/GitNotes/icon_links",
+		"paths": [],
+		"group": "",
+		"enabled": true
 	}
 ]

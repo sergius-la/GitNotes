@@ -5,6 +5,7 @@
   - <img src="/imgs/testng.jpg" width="13" height="13"> [__`TestNG`__](https://github.com/sergius-la/Java/blob/master/TestNG/README.md)
 - <img src="/imgs/py_icon.png" width="13" height="13"> [__`Python`__](https://github.com/sergius-la/Python)
 - <img src="/imgs/swift.png" width="13" height="13"> [__`Swift`__](https://github.com/sergius-la/Swift)
+- <img src="https://github.com/sergius-la/icon_links/blob/master/img/bash.png" width="13" height="13"> [__`Bash`__](https://github.com/sergius-la/Cheatsheet/blob/master/bash/README.md)
 
 ## WebDevelopment:
 - <img src="/imgs/django_icon.png" width="13" height="13"> [__`Django`__](https://github.com/sergius-la/Python#-django)
