@@ -2,6 +2,7 @@
 
 ## Languages:
 - <img src="/imgs/java.png" width="13" height="13"> [__`Java`__](https://github.com/sergius-la/Java)
+  - <img src="/imgs/testng.jpg" width="13" height="13"> [__`TestNG`__](https://github.com/sergius-la/Java/blob/master/TestNG/README.md)
 - <img src="/imgs/py_icon.png" width="13" height="13"> [__`Python`__](https://github.com/sergius-la/Python)
 - <img src="/imgs/swift.png" width="13" height="13"> [__`Swift`__](https://github.com/sergius-la/Swift)
 
