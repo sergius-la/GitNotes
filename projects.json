@@ -68,5 +68,12 @@
 		"paths": [],
 		"group": "",
 		"enabled": true
+	},
+	{
+		"name": "GitNotes - Math",
+		"rootPath": "$home/Desktop/GitNotes/Math",
+		"paths": [],
+		"group": "",
+		"enabled": true
 	}
 ]

@@ -10,3 +10,4 @@ git clone https://github.com/sergius-la/CodingBat-Java.git
 git clone https://github.com/sergius-la/Algorithms-Python.git
 git clone https://github.com/sergius-la/Algorithms-Java.git
 git clone https://github.com/sergius-la/Cheatsheet.git
+git clone https://github.com/sergius-la/Math.git
