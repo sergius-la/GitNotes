@@ -17,7 +17,7 @@
 -  <img src="/imgs/xctest.jpg" width="13" height="13"> [__`XCUITest`__](https://github.com/sergius-la/Swift/blob/master/Swift/XCTest/XCUITest/XCUitest.md)
 -  <img src="/imgs/android.png" width="13" height="13"> __Android:__
     -   [__`ADB commands (GitHub)`__](https://github.com/sergius-la/Cheatsheet/blob/master/adb/adb.md)
-    -   [__`ADB commands (Notion)`__](https://www.notion.so/adb-Android-Debug-Bridge-2e5d42e92a824344980a2f313d301142)
+    -   [__`ADB commands (Notion)`__](https://www.notion.so/adb-Android-Debug-Bridge-2661c2f4114c4354b42b84190722b757)
 -   [__`xPath`__](https://github.com/sergius-la/Automation/tree/master/xPath)    
 
 ## <img src="/imgs/algorithms.png" width="24" height="24"> [`Algorithms:`](https://github.com/sergius-la/Algorithms)
